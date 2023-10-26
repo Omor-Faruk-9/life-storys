@@ -4,3 +4,4 @@ i am omor faruk
 i am 22 year old.
 i am student.
 i will become a web developer.
+logo alignment is center.
